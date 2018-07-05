@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1530902565 source:d:\work\projects\c-projects\queue_task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	"common.h"
+	<string.h>
+
+1530818501 d:\work\projects\c-projects\queue_task2\queue.h
+	"common.h"
+
+1530813595 d:\work\projects\c-projects\queue_task2\common.h
+
+1530903002 source:d:\work\projects\c-projects\queue_task2\queue.c
+	"queue.h"
+	<stdlib.h>
+
