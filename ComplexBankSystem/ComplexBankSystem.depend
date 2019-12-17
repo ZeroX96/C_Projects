@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1576564909 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\encryption.c
+
+1576566897 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\files.c
+	"files_apis.h"
+
+1576566918 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\files_apis.h
+	"Includes.h"
+
+1576566140 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\includes.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<wchar.h>
+	"Encryption_typesDefs.h"
+	"files_typesDefs.h"
+	"LinkeLists_typesDefs.h"
+	"Lists_ArrBased_typesDefs.h"
+	"SysMain_typesDefs.h"
+	"files_apis.h"
+	"LinkeLists_APIs.h"
+	"Lists_ArrBased_APIs.h"
+	"SysMain_APIs.h"
+	"LinkedLists.h"
+	"encryption.h"
+	"files.h"
+	"Zgraphics.h"
+	"Lists_ArrBased.h"
+	"Mouse.h"
+	"SysMain.h"
+
+1576564234 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\encryption_typesdefs.h
+	"includes.h"
+
+1576566851 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\files_typesdefs.h
+	<stdint-gcc.h>
+	<stdbool.h>
+
+1576564121 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\linkelists_typesdefs.h
+	"SysMain_typesDefs.h"
+
+1576563442 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\sysmain_typesdefs.h
+	<stdint-gcc.h>
+	<stdbool.h>
+
+1576564600 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\lists_arrbased_typesdefs.h
+
+1576567008 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\linkedlists.c
+	"LinkeLists_APIs.h"
+
+1576566979 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\linkelists_apis.h
+	"Includes.h"
+	"LinkeLists_typesDefs.h"
+	"SysMain_typesDefs.h"
+
+1576566416 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\sysmain.c
+	"SysMain_APIs.h"
+
+1576565297 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\sysmain_apis.h
+	"Includes.h"
+
+1576567026 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\lists_arrbased.c
+	"Lists_ArrBased_APIs.h"
+
+1576566965 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\lists_arrbased_apis.h
+	"Includes.h"
+
+1576566535 source:d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Includes.h"
+
+1567891448 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\zgraphics.h
+	"includes.h"
+
+1568709640 d:\msa\2b_or_!2b\codeblocks_workspace\complexbanksystem\mouse.h
+	"includes.h"
+
